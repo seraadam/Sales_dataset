@@ -1,3 +1,5 @@
 USSales/Sales.csv filter=lfs diff=lfs merge=lfs -text
 InternationalSales/Australia.csv filter=lfs diff=lfs merge=lfs -text
+USSales/*.csv filter=lfs diff=lfs merge=lfs -text
+InternationalSales/*.csv filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
